@@ -1,5 +1,8 @@
-## XSteam for julia
-Immigrate By hzgzh Date: 2019-9-29
+# XSteam.jl
+
+!!! note
+    Based on https://github.com/hzgzh/XSteam.jl which appears to be inactive.
+    We're moving this under ProjectTorreyPines after opening a PR (https://github.com/hzgzh/XSteam.jl/pull/2) and not getting a response.
 
 X Steam for julia is a implementation of the IAPWS IF97 standard formulation immigrate from XSteam for matlab By Magnus Holmgren, www.x-eng.com
 The steam tables are free and provided as is.
